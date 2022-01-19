@@ -1,0 +1,62 @@
+{
+	"name":"Rando_0",
+    "description":"Changing",
+    "image":"0.png",
+    "date": 633885941000,
+ 	"symbol": "",
+ 	"seller_fee_basis_points": 0,
+    "collection": {
+       "name": "Random",
+       "family": "My Randos"
+     },
+	"properties": {
+       "files": [
+         {
+           "uri": "0.png",
+           "type": "image/png"
+         }
+       ],
+       "category": "image",
+       "creators": [
+         {
+           "address": "6DcmwNXiS4YTX5JVJHaHxBa36pq4vhDRZCBvehY6BfTU",
+           "share": 100
+         }
+       ]
+     },
+    "attributes": [
+        {
+            "trait_type":"Face",
+            "value": "White"
+        },
+        {
+            "trait_type":"Ears",
+            "value": "ears3"
+
+        },
+        {
+            "trait_type":"Eyes",
+            "value": "regular"
+
+        },
+        {
+            "trait_type":"Hair",
+            "value": "hair11"
+
+        },
+        {
+            "trait_type":"Mouth",
+            "value": "m1"
+
+        },
+        {
+            "trait_type":"Nose",
+            "value": "n1"
+
+        },
+        {
+            "trait_type":"tokenId",
+            "value": 0
+        }
+     ]
+}
